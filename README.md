@@ -1,5 +1,3 @@
-# recruitment_hiring_analytics
-HR Analytics project analyzing recruitment funnel,hiring sources,joining rates, and department _wise hiring performance using excel and tableau.
 
 # 📊 Recruitment & Hiring Analytics
 
@@ -160,7 +158,7 @@ Tableau Public was used to create an interactive recruitment dashboard containin
 
 ## 📊 Tableau Dashboard
 
-🔗 **[View Recruitment & Hiring Analytics Dashboard](PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE)**
+🔗 **[https://public.tableau.com/app/profile/rajnandini.ghadge/viz/RecruitmentHiringAnalyticsDashboard].
 
 The interactive dashboard provides a visual overview of recruitment funnel performance, source effectiveness and department-wise hiring outcomes.
 
